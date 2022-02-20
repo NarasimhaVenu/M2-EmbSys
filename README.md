@@ -13,5 +13,19 @@
 * Relay: A electrically operated switch.
 * Buzzer: An audio signaling device.
 * Memory Chip: A memory chip is an integrated circuit made out of millions of capacitors and transistors that can store data or can be used to process code.
+# Requirements:
+* High Level Requirements:
 
+|  ID  |  Description  |
+| ------  | ------  |
+|  HLR1  |  LCD for displaying time, temperature  | 
+|  HLR2  |  Setting time  |
+|  HLR3  |  Power Source  |
 
+* Low Level Requirements:
+
+|  ID  |  Description  |
+|  ------  |  ------  |
+|  LLR1  |  Battery Backup  |
+|  LLR2  |  Time Format Adjustment  |
+|  LLR3  |  Temperature Adjustment  |
