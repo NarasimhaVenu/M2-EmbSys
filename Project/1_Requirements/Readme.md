@@ -4,9 +4,6 @@
 * This peoject focuses on creating an embedded system design of digital watch with built-in temperature Display.
 ## Objective:
 * To make an embedded circuit and implement it using SimulIde.
-## Block Diagram
-![image](https://user-images.githubusercontent.com/98816218/154832520-755ba58a-e5cb-4102-86c9-63cf18562c50.png)
-
 ## Components:
 * Push Button(Power UP): It is a type of switch work on simple mechanism push to start.
 * Voltage Regulator: A voltage regulator is a system designed to automatically maintain a constant voltage.
