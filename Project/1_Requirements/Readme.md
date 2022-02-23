@@ -12,7 +12,7 @@
 * LCD Display: For display purpose
 * Relay: A electrically operated switch.
 * Buzzer: An audio signaling device.
-* Memory Chip: A memory chip is an integrated circuit made out of millions of capacitors and transistors that can store data or can be used to process code.
+* Memory Chip: A memory chip is an integrated circuit made out of millions of capacitors and transistors that can store data or can be used to process the code.
 # Requirements:
 * High Level Requirements:
 
