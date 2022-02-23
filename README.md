@@ -1,5 +1,5 @@
 # M2-EmbSys
-# Case Study
+# Project
 * Digital Watch with built-in Temperature Display
 ## Block Diagram
 ![image](https://user-images.githubusercontent.com/98816218/154832520-755ba58a-e5cb-4102-86c9-63cf18562c50.png)
