@@ -1,4 +1,7 @@
 # Complex Embedded System: Smart Watch
+# Block Diagram
+![image](https://user-images.githubusercontent.com/98816218/155263087-1ca29b50-134d-49ec-900e-e60bf358fd9e.png)
+
 # Components:
 * Power Management IC: A power management integrated circuit (PMIC) is used to manage power on an electronic devices or in modules on devices that may have a range of voltages. The PMIC manages battery power charging and sleep modes, DC-to-DC conversion, scaling of voltages down or up
 * MCU: A microcontroller contains one or more CPUs (processor cores) along with memory and programmable input/output peripherals.
