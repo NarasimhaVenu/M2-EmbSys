@@ -2,9 +2,11 @@
 # Project
 * Digital Watch with built-in Temperature Display
 ## Block Diagram
+* Using Microcontroller
 ![image](https://user-images.githubusercontent.com/98816218/154832520-755ba58a-e5cb-4102-86c9-63cf18562c50.png)
-
-# Components:
+* Using Arduino
+* ![image](https://user-images.githubusercontent.com/98816218/155741922-a9ea1423-f06b-416b-a948-cc7c135e1100.png)
+## Components:
 * Push Button(Power UP): It is a type of switch work on simple mechanism push to start.
 * Voltage Regulator: A voltage regulator is a system designed to automatically maintain a constant voltage.
 * Temperature Sensor: Temperature sensors is the voltage across the diode terminals. If the voltage increases, the temperature also rises, followed by a voltage drop between the transistor terminals of base and emitter in a diode.
