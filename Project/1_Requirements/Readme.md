@@ -1,6 +1,6 @@
 # Project
 # Digital Watch with built-in Temperature Display
-## Features
+## Features:
 * Displays Time in DD/MM/YYYY format, Temperature in Celsius degree.
 ## Description:
 * This project focuses on creating an embedded system design of digital watch with built-in temperature Display.
@@ -19,7 +19,6 @@
 * Relay: A electrically operated switch.
 * Buzzer: An audio signaling device.
 * Memory Chip: A memory chip is an integrated circuit made out of millions of capacitors and transistors that can store data or can be used to process the code.
-
 ## Using Arduino
 * Arduino Uno R3
 * Potentiometer
@@ -42,12 +41,19 @@
 |  LLR2  |  Time Format Adjustment  |
 |  LLR3  |  Temperature Adjustment  |
 
+## Further Development:
+* We can extend this project features by adding humidity, Air Quality display and even upgrade this into automatic light system and Visitor Counter System.
+* For displaying Humidity we can use Hygrometer 
+* For displaying Air Quality we can use Optical sensors, Metal Oxide Sesnor(To measure Nitrogen, Oxygen and Carbondioxide),Photo Ionization Sensor.
+* For Visitor Counter we can use Ultra Sonic Sensor.
+* For Automatic Light Sytem we can PIR Sensor. 
+
 ## SWOT Analysis:
 * Strenghts: Displays temperature and time
 
 * Weakness: Displays temperature in only one degree i.e., Celsius
 
-* Oppurtunities: Can be extended for displaying Humidity, Air Quality and many more.
+* Oppurtunities: Can be extended for displaying Humidity, Air Quality etc.
 
 * Threats: No major threats
 
