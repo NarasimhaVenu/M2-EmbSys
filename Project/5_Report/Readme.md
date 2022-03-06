@@ -50,7 +50,7 @@
 |  L02  |  Countdown display  |  Run  |  Display  |  Implemented  |
 |  L03  |  Circuit   |  Implementing Circuit    |  Run Circuit  |  Implemented  |
 ## Circuit Diagram
-
+![image](https://user-images.githubusercontent.com/98816218/156929051-3700f6ed-bd29-4d03-b7bc-fe5e0882810f.png)
 ## Further Development:
 * We can extend this project features by adding humidity, Air Quality display and even upgrade this into automatic light system and Visitor Counter System.
 * For displaying Humidity we can use Hygrometer 
