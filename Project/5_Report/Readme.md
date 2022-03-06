@@ -51,6 +51,8 @@
 |  L03  |  Circuit   |  Implementing Circuit    |  Run Circuit  |  Implemented  |
 ## Circuit Diagram
 ![image](https://user-images.githubusercontent.com/98816218/156929051-3700f6ed-bd29-4d03-b7bc-fe5e0882810f.png)
+## Code Simulation
+![image](https://user-images.githubusercontent.com/98816218/156929105-43c719a5-45b8-4f94-b2e0-281f6cd7d910.png)
 ## Further Development:
 * We can extend this project features by adding humidity, Air Quality display and even upgrade this into automatic light system and Visitor Counter System.
 * For displaying Humidity we can use Hygrometer 
