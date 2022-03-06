@@ -7,6 +7,9 @@
 * This project focuses on developing an Alarm Arduino Uno circuit, with a buzzer sound with a 10 seconds countdown, user needs to enter the correct password to deactivate the connection and to turn off the alarm.
 ## Objective:
 * To make an Alarm circuit using Arduino and to implement it using SimulIde.
+## Block Diagram
+![image](https://user-images.githubusercontent.com/98816218/156927288-7e352645-1c04-435e-b3cf-a5731112d4ab.png)
+
 ## Components:
 * Arduino Uno 45
 * 16x2 LCD Display Hd44780
