@@ -13,3 +13,7 @@
 |  L01  |  Library files  |  Added Library files  |  Execution without Errors  |  Implemented  |   
 |  L02  |  Countdown display  |  Run  |  Display  |  Implemented  |
 |  L03  |  Circuit   |  Implementing Circuit    |  Run Circuit  |  Implemented  |
+
+## Output
+![image](https://user-images.githubusercontent.com/98816218/156928634-2e04679a-e9d0-482d-beaa-d4b733d71f39.png)
+
