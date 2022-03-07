@@ -9,6 +9,8 @@
 * To make an Alarm circuit using Arduino and to implement it using SimulIde.
 ## Block Diagram
 ![image](https://user-images.githubusercontent.com/98816218/156927288-7e352645-1c04-435e-b3cf-a5731112d4ab.png)
+## Flow Chart
+![image](https://user-images.githubusercontent.com/98816218/157063670-43875a5c-3457-4a55-9265-70536e6ef07d.png)
 ## Components:
 * Arduino Uno 45
 * 16x2 LCD Display Hd44780
