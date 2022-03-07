@@ -1,5 +1,21 @@
 # Project
 # Alaram Countdown using Arduino in SimulIde
+## Table of Content:
+* Features
+* Description
+* Objective
+* Block Diagram
+* Flow Chart
+* Components
+* Requirements
+* Test Plan
+* Code
+* Circuit Diagram PNG
+* Code Simulation PNG
+* Further Development
+* SWOT Analysis
+* 4W's & 1H
+* Output PNG
 ## Features:
 * Displays countdown which trigerrs the buzzer alarm.
 * After entering the correct password the buzzer will be deactivated.
@@ -51,6 +67,8 @@
 |  L01  |  Library files  |  Added Library files  |  Execution without Errors  |  Implemented  |   
 |  L02  |  Countdown display  |  Run  |  Display  |  Implemented  |
 |  L03  |  Circuit   |  Implementing Circuit    |  Run Circuit  |  Implemented  |
+## Code
+*
 ## Circuit Diagram
 ![image](https://user-images.githubusercontent.com/98816218/156929051-3700f6ed-bd29-4d03-b7bc-fe5e0882810f.png)
 ## Code Simulation
@@ -61,7 +79,6 @@
 * For displaying Air Quality we can use Optical sensors, Metal Oxide Sesnor(To measure Nitrogen, Oxygen and Carbondioxide),Photo Ionization Sensor.
 * For Visitor Counter we can use Ultra Sonic Sensor.
 * For Automatic Light Sytem we can PIR Sensor. 
-
 ## SWOT Analysis:
 * Strenghts: Count down alarm
 
