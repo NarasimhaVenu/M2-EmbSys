@@ -23,7 +23,7 @@
 * This project focuses on developing an Alarm Arduino Uno circuit, with a buzzer sound with a 10 seconds countdown, user needs to enter the correct password to deactivate the connection and to turn off the alarm.
 * If the password i.e., # or *1234# is entered LCD will display Correct Pass
 * If the password is not entered within time limit the buzzer will be triggered
-* If the password i.e, *1234*# is entered LCD will display Wrong Pass
+* If the password i.e, * 1234*# is entered LCD will display Wrong Pass
 ## Objective:
 * To make an Alarm circuit using Arduino and to implement it using SimulIde.
 ## Block Diagram
@@ -63,6 +63,9 @@
 |  H02  |  Generating Hex FIle  |  Hex File  |  Hex File  |  Implemented  |
 |  H03  |  Making the Circuit  |  Components  |  Circuit  |  Implemented  |
 |  H04  |  Buzzer  |  Component  |  Buzzer sound  |  Implemented  |
+|  H05  |  Input Password  |  #/*1234#  |  Correct Pass  |  Implemented  |
+|  H06  |  Input Password  |  * 1234*#  |  Wrong Pass  |  Implemented  |
+|  H07  |  Input Password  |  No Input  |  Count down display  |  Implemented  |
 
 # Low Level Test Plan
 |  Test ID  |  Description  |  Expected Input  |  Expected Output  |  Status  |
