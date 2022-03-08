@@ -7,7 +7,7 @@
 * This project focuses on developing an Alarm Arduino Uno circuit, with a buzzer sound with a 10 seconds countdown, user needs to enter the correct password to deactivate the connection and to turn off the alarm.
 * If the password i.e., # or *1234# is entered LCD will display Correct Pass
 * If the password is not entered within time limit the buzzer will be triggered
-* If the password i.e, *1234*# is entered LCD will display Wrong Pass
+* If the password i.e, * 1234*# is entered LCD will display Wrong Pass
 ## Objective:
 * To make an Alarm circuit using Arduino and to implement it using SimulIde.
 ## Components:
