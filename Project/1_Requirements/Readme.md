@@ -1,5 +1,5 @@
 # Project
-# Alaram Countdown using Arduino in SimulIde
+# Count down Alarm Clock with password enabled display In SimulIde using Arduino
 ## Features:
 * Displays countdown which trigerrs the buzzer alarm.
 * After entering the correct password the buzzer will be deactivated.
