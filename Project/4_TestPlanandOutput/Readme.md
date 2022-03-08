@@ -18,5 +18,5 @@
 ![image](https://user-images.githubusercontent.com/98816218/156928634-2e04679a-e9d0-482d-beaa-d4b733d71f39.png)
 ## If password is *1234# -Correct Pass
 ![image](https://user-images.githubusercontent.com/98816218/157174010-ddad5676-2e89-48a6-867f-d9fec2069aa4.png)
-## If password is *1234*# -Wrong Pass
+## If password is *1234*# -Wrong Pass and Buzzer is triggered
 ![image](https://user-images.githubusercontent.com/98816218/157174310-ea1e62b0-540d-42e3-abd5-7a8ca31e2552.png)
