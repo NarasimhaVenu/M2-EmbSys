@@ -7,7 +7,7 @@
 |  H03  |  Making the Circuit  |  Components  |  Circuit  |  Implemented  |
 |  H04  |  Buzzer  |  Component  |  Buzzer sound  |  Implemented  |
 |  H05  |  Input Password  |  #/*1234#  |  Correct Pass  |  Implemented  |
-|  H06  |  Input Password  |  *1234*#  |  Wrong Pass  |  Implemented  |
+|  H06  |  Input Password  |  * 1234*#  |  Wrong Pass  |  Implemented  |
 |  H07  |  Input Password  |  No Input  |  Count down display  |  Implemented  |
 
 # Low Level Test Plan
